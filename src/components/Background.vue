@@ -70,7 +70,7 @@ const imgAnimationEnd = () => {
 const imgLoadError = () => {
   console.error("壁纸加载失败：", bgUrl.value);
   ElMessage({
-    message: "壁纸加载失败，已临时切换回默认",
+    message: "网络较差加载失败，请重新刷新您的浏览器",
     icon: h(Error, {
       theme: "filled",
       fill: "#efefef",
