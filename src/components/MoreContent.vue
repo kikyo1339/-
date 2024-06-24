@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">领悟音乐的人，能从一切世俗的烦恼中超脱出来。——贝多芬</div>
 </template>
 
 <style lang="scss" scoped>
