@@ -1,10 +1,10 @@
 {
   "name": "home",
-  "author": "imsyy",
+  "author": "HX Brass",
   "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "home": "https://xn--s4tp5rpt7b2xb.top/",
   "private": true,
-  "version": "4.1.4",
+  "version": "9.9.9",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
