@@ -8,7 +8,7 @@
         :href="item.url"
         target="_blank"
         @mouseenter="socialTip = item.tip"
-        @mouseleave="socialTip = '通过这里关注我们吧'"
+        @mouseleave="socialTip = '祝您开心每一天'"
       >
         <img class="icon" :src="item.icon" height="24" />
       </a>
@@ -21,7 +21,7 @@
 import socialLinks from "@/assets/socialLinks.json";
 
 // 社交链接提示
-const socialTip = ref("通过这里关注我们吧");
+const socialTip = ref("祝您开心每一天");
 </script>
 
 <style lang="scss" scoped>
