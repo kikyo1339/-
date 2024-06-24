@@ -1,38 +1,38 @@
 [
   {
-    "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "name": "管乐商城",
+    "icon": "/images/icon/Che.png",
+    "tip": "去商城主页看看",
+    "url": "https://xn--s4tp5rpt7b2xb.top/"
   },
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "name": "添加微信",
+    "icon": "/images/icon/VX.png",
+    "tip": "欢迎微信咨询 ~",
+    "url": "https://img.kookapp.cn/assets/2024-06/24/mwNnraxy7m0qe0zz.jpg"
   },
   {
-    "name": "QQ",
-    "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "name": "添加ＱＱ",
+    "icon": "/images/icon/qq2.png",
+    "tip": "欢迎ＱＱ咨询 ~",
+    "url": "https://res.abeim.cn/api/qq/?qq=28835366"
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "name": "相关资质",
+    "icon": "/images/icon/Zizhi.png",
+    "tip": "查看资质证明 ~",
+    "url": "https://www.yuque.com/lugamen/ih490g/ndl4c6cgvzsvyz1y?singleDoc# 《相关资质》"
   },
   {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+    "name": "商城评价",
+    "icon": "/images/icon/Fankui.png",
+    "tip": "查看售后评价 ~",
+    "url": "https://www.yuque.com/lugamen/ih490g/no34ge5mk1lc2tyg?singleDoc# 《商城评价》"
   },
   {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "name": "演出信息",
+    "icon": "/images/icon/Feiji.png",
+    "tip": "查看演出信息 ~",
+    "url": "https://www.yuque.com/lugamen/ih490g/xbbv8epdpcd4q8wr?singleDoc# 《演出信息》"
   }
 ]
